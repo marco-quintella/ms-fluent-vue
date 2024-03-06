@@ -81,4 +81,6 @@ export interface MsButtonProps {
   iconOnly?: boolean
 
   icon?: string
+
+  as?: 'button' | 'a'
 }
